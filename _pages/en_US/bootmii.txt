@@ -4,13 +4,16 @@ title: "BootMii Backup"
 
 {% include toc title="Table of Contents" %}
 
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
+
 ![BootMii Logo](/images/bootmii.png)
 
 One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. We recommend making a NAND backup regularly or before you do something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
 #### What you need
 
-* An SD Card with at least 512MB of free space
+* An SD card with at least 512MB of free space
 
 #### Instructions
 
@@ -34,7 +37,7 @@ Do not turn off your Wii when backing up your NAND!
 6. When it's done backing up, it will verify the backup. It can be skipped by pressing the EJECT button if you want, but we recommend to keep it running.
 7. When the backup is fully complete, exit the NAND backup screen by pressing any button. To get out of BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
 
-To restore from a NAND backup on your SD Card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
 {: .notice--info}
 
 [Continue to Priiloader Installation](priiloader)<br>
